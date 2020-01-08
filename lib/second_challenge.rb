@@ -13,7 +13,8 @@ def second_challenge
       :matriarch => {},
       :heroine => {},
       :heroine_friends => []
-      }}
-
+      }
+  }
+  epic_tragedy
   
 end
