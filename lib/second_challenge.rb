@@ -15,5 +15,4 @@ def second_challenge
       :heroine_friends => []
       }
   }
-  epic_tragedy
 end
